@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food\\Loop-food.csproj",
+      "projectUniqueName": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food.csproj",
       "projectName": "Loop-food",
-      "projectPath": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food\\Loop-food.csproj",
+      "projectPath": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food.csproj",
       "packagesPath": "C:\\Users\\oskar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food\\obj\\",
+      "outputPath": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

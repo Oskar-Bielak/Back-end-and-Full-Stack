@@ -28,6 +28,12 @@ namespace Loop_food.Controllers
         {
             return View();
         }
+
+        [Route("zaloguj-sie")]
+        public IActionResult login()
+        {
+            return View();
+        }
         
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

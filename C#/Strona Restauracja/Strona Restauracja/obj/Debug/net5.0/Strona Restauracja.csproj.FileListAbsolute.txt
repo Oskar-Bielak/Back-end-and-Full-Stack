@@ -1,0 +1,23 @@
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\appsettings.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.exe
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.deps.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.runtimeconfig.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.runtimeconfig.dev.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\ref\Strona Restauracja.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Strona Restauracja.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.csproj.AssemblyReference.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.AssemblyInfo.cs
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\staticwebassets\Strona Restauracja.StaticWebAssets.Manifest.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\staticwebassets\Strona Restauracja.StaticWebAssets.xml
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\scopedcss\bundle\Strona Restauracja.styles.css
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.RazorTargetAssemblyInfo.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\ref\Strona Restauracja.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.genruntimeconfig.cache

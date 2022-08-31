@@ -4,7 +4,7 @@ Witam was, w sekcji poświeconej projektów i pojedynczych skryptami. Opis Folde
 
 -WP, M, I - Wzorce Projektowe, Medoty i inne pojedyncze skrypty backendingowe
 
-- - Przerobione kursy i opisanie w nich jakie umiejetnosci zostały opanowane
+-Przerobione kursy i opisanie w nich jakie umiejetnosci zostały opanowane
 
 -Loop Food - Projekt napisany w technogii ASP.NET.CORE MVC
 

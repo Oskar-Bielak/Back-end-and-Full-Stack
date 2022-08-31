@@ -9,6 +9,7 @@ Witam was, w sekcji poświeconej projektów i pojedynczych skryptami. Opis Folde
 -Loop Food - Projekt napisany w technogii ASP.NET.CORE MVC
 
 
+
 EN:
 
 Hello, to the section dedicated to projects and individual scripts. Folder Description:

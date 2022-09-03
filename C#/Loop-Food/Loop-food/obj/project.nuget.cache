@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/SdG0NMOiBDBGoUfnPZAoOJOp8e+IFDmwfNaBVeExIS1WPyf4GNn/pj/RUAXOjDUVpMkJSTDckRtWTPOn/aAOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskar\\Desktop\\git full-stack\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food.csproj",
@@ -112,6 +113,16 @@
     "C:\\Users\\oskar\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\oskar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\oskar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+=======
+  "dgSpecHash": "5EOVAqkjrDK4F/g3CKEBjKIEHjowkoKbrCazs3ytqUE2pFBRiZ8gzeoqm+W89gjlfOEbqxfGobDuqe/HRD5dUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oskar\\OneDrive\\Pulpit\\Studia-Praca IT\\Full-Stack\\C#\\Loop-Food\\Loop-food\\Loop-food.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\oskar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\oskar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\oskar\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+>>>>>>> d5e2bbd649fa21b2f01c6b3cb24028d66cf049c4
   ],
   "logs": []
 }

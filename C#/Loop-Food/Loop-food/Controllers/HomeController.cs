@@ -1,4 +1,5 @@
 ﻿using Loop_food.Models;
+using Loop_food.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -11,13 +12,12 @@ namespace Loop_food.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+       
+        private readonly IWarehorseService _warehorseService;
+        public HomeController(IWarehorseService warehorseService)
         {
-            _logger = logger;
+            _warehorseService = warehorseService;
         }
-        
         public IActionResult Index()
         {
             return View();
@@ -30,16 +30,29 @@ namespace Loop_food.Controllers
         }
 
         [Route("zaloguj-sie")]
-        public IActionResult login()
+        public IActionResult Login()
         {
             return View();
         }
         
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpGet]
+        public IActionResult Newsletter()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
+        [HttpPost]
+        public IActionResult Newsletter(NewsletterModel body)
+        {
+            if(!ModelState.IsValid)
+            {
+                return View(body);
+            }
+            var id = _warehorseService.Save(body);
+            ViewData["NewsletterID"] = id;
+            TempData["NewsletterID"] = id;
+            return RedirectToAction("Newsletter");
+        }
+
+        
     }
 }

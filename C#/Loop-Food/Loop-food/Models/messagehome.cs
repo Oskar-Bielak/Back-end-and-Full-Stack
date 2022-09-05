@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Loop_food.Models
 {
-    public class messagehome
+    public class Messagehome
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         public string titlemesage { get; set; }
 

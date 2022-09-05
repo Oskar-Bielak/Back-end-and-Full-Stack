@@ -1,6 +1,9 @@
+using Loop_food.Services;
+using Loop_food.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +27,11 @@ namespace Loop_food
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IWarehorseService, WarehorseService>();
+            services.AddDbContext<DbTestContext>(builder =>
+            {
+                builder.UseSqlServer(@"Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=DbTesto;Intergrated Security:True");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

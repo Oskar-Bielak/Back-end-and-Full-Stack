@@ -1,7 +1,9 @@
 ﻿
 @{
-    ViewData["Title"] = "login";
+    ViewData["Title"] = "Login";
 }
+
+<h1>Login</h1>
 
 <div class="alert alert-danger alert-dismissible fade show" style="text-align: center;" role="alert">
     <strong>Uwaga!</strong> Nikt nawet Administrator nie poprosi Cię o hasło i email.
@@ -10,12 +12,7 @@
     </button>
 </div>
 <div class="col-12 row">
-    <div class="col-4">
-    </div>
-    <div class="col-md-4 panel">
-        <h3>Zaloguj się</h3>
-        <br />
-        <form action="" method="post">
+    <form>
             <p>Wybierz użytkownika</p>
             <select class="form-control" name="rola">
                 <option>Klient</option>
@@ -25,16 +22,18 @@
             <br />
             <div class="form-group">
                 <label for="Email">Adres Email</label>
-                <input type="email" class="form-control" name="Email" aria-describedby="podpowiedzEmail" placeholder="Wpisz Email">
+                <input type="email" class="form-control" name="email" aria-describedby="podpowiedzEmail" placeholder="Wpisz Email">
                 <small id="podpowiedzEmail" class="form-text text-muted">W powyższym polu wpisujesz swój adres email.</small>
             </div>
             <div class="form-group">
                 <label for="Haslo">Hasło</label>
-                <input type="password" class="form-control" name="Haslo" placeholder="Wpisz hasło">
+                <input type="password" class="form-control" name="haslo" placeholder="Wpisz hasło">
             </div>
             <a href="dolacz-do-nas"><medium id="rejestracja" class="form-text text-muted">Zarejestruj się</small></a>
             <a href="przypomnij"><medium id="zapomniane_haslo" class="form-text text-muted">Zapomniałem Hasło</small></a>
             <br />
-            <button type="button" class="btn btn-dark">Zaloguj</button>
+            <button type="submit" class="btn btn-dark">Zaloguj</button>
         </form>
+    </div>
+    <div class="col-4">
     </div>

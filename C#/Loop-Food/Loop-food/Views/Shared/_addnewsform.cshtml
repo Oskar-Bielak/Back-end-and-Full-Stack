@@ -1,0 +1,13 @@
+﻿@model Loop_food.Models.NewsletterModel
+
+@using (Html.BeginForm("Newsletter", "Home", FormMethod.Post))
+{
+    @Html.ValidationSummary()
+
+    <p>Nazwa: </p>@Html.TextAreaFor(x => x.Name)
+    <p>Mail: </p>@Html.TextAreaFor(x => x.Mail)
+    <p>Co mozemny dla Ciebie zrobić ?: </p>@Html.TextAreaFor(x => x.Text)
+    <br />
+    <br />
+    <button type="submit">Wyślij</button>
+}

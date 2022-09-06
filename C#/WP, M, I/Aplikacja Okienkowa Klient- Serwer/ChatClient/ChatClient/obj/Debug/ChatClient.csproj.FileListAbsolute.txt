@@ -1,0 +1,10 @@
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\Server\Server\main.cpp(90,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\Server\Server\main.cpp(144,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\Server\Server\main.cpp(165,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\oskar\Desktop\Projekt Krypto\csharp-chat-clients-master\Server\x64\Debug\Server.exe

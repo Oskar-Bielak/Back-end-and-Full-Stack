@@ -58,3 +58,12 @@ C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Re
 C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\nlog.config
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\NLog.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Strona Restauracja\Strona Restauracja\obj\Debug\net5.0\Strona Restauracja.MvcApplicationPartsAssemblyInfo.cs

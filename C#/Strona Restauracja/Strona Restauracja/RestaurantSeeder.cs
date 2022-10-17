@@ -35,7 +35,7 @@ namespace Strona_Restauracja
                     Name ="KFC",
                     Category = "Fast Food",
                     Description =" KFC (Short for Kentucky Chicken) is an American fast food",
-                    ContactEmali = "contact@kfc.com",
+                    ContactEmail = "contact@kfc.com",
                     HasDelivery = true,
                     Dishes = new List<Dish>()
                     {

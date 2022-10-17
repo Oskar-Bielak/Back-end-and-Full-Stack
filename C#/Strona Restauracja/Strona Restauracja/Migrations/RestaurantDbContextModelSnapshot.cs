@@ -83,7 +83,7 @@ namespace Strona_Restauracja.Migrations
                     b.Property<string>("Category")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ContactEmali")
+                    b.Property<string>("ContactEmail")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ContactNumer")

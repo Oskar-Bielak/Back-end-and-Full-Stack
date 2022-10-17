@@ -2,7 +2,7 @@
 
 namespace Strona_Restauracja.Migrations
 {
-    public partial class Init2 : Migration
+    public partial class Init3 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -31,7 +31,7 @@ namespace Strona_Restauracja.Migrations
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Category = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     HasDelivery = table.Column<bool>(type: "bit", nullable: false),
-                    ContactEmali = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    ContactEmail = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     ContactNumer = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     AddressId = table.Column<int>(type: "int", nullable: false)
                 },

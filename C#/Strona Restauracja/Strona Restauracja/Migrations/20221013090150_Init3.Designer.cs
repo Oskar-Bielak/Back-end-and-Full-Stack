@@ -9,8 +9,8 @@ using Strona_Restauracja.Entities;
 namespace Strona_Restauracja.Migrations
 {
     [DbContext(typeof(RestaurantDbContext))]
-    [Migration("20221012175448_Init2")]
-    partial class Init2
+    [Migration("20221013090150_Init3")]
+    partial class Init3
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -85,7 +85,7 @@ namespace Strona_Restauracja.Migrations
                     b.Property<string>("Category")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ContactEmali")
+                    b.Property<string>("ContactEmail")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ContactNumer")

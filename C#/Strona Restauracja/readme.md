@@ -3,12 +3,12 @@ PL:
 Mini aplikacja webowa do zamawiania jedzenia, napisana w technologii ASP.NET CORE (C#, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)
 
 Użyte Paczki:
--EntityFrameworkCore
--EntityFrameworkCore.SqlServer
--EntityFrameworkCore.Tools
--Swashbuckle
--NLog
--AutoMapper
+- EntityFrameworkCore
+- EntityFrameworkCore.SqlServer
+- EntityFrameworkCore.Tools
+- Swashbuckle
+- NLog
+- AutoMapper
 
 Technologia Bazodanowa: SQL
 Baza Danych:
@@ -40,11 +40,11 @@ Sortowanie po nazwie
 /get/restaurant?sortBy=Name
 
 Stworzenie następujących zapytań do akcji kontrolera odpowiedzialnych wyciąganie danych z bazy lub dodawanie jej: 
--CreateRestaurant (HttpPost)
--GetAll (/)
--GetById (/get/id)
--Update (put/id)
--Delete (/delete/id)
+- CreateRestaurant (HttpPost)
+- GetAll (/)
+- GetById (/get/id)
+- Update (put/id)
+- Delete (/delete/id)
 
 
 Obsługa wyjątków:
@@ -59,12 +59,12 @@ EN:
 A mini web application for ordering food written in ASP.NET CORE technology (C #, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)
 
 Used parcels:
--EntityFrameworkCore
--EntityFrameworkCore.SqlServer
--EntityFrameworkCore.Tools
--Swashbuckle
--NLog
--AutoMapper
+- EntityFrameworkCore
+- EntityFrameworkCore.SqlServer
+- EntityFrameworkCore.Tools
+- Swashbuckle
+- NLog
+- AutoMapper
 
 Database Technology: SQL
 Database:
@@ -96,11 +96,11 @@ Sort by name
 / get / restaurant? sortBy = Name
 
 Creating the following queries to the controller actions responsible for extracting data from the database or adding it:
--CreateRestaurant (HttpPost)
--GetAll (/)
--GetById (/ get / id)
--Update (put / id)
--Delete (/ delete / id)
+- CreateRestaurant (HttpPost)
+- GetAll (/)
+- GetById (/ get / id)
+- Update (put / id)
+- Delete (/ delete / id)
 
 Exception Handling:
 In this case, an NLog has been configured. Added handling of any errors related to attempts to remove server resources that do not exist, API errors, but also any page errors.

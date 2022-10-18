@@ -8,7 +8,7 @@ Witam was, w sekcji poświeconej projektów i pojedynczych skryptami. Opis Folde
 
 -Loop Food - Projekt napisany w technogii ASP.NET.CORE MVC
 
-
+- Strona Restauracja - Mini aplikacja webowa do zamawiania jedzenia, napisana w technologii ASP.NET CORE (C#, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)
 
 EN:
 
@@ -19,3 +19,5 @@ Hello, to the section dedicated to projects and individual scripts. Folder Descr
 -Kursy - Completed courses and describe what skills have been mastered
 
 -Loop Food - Project written in ASP.NET.CORE MVC technology
+
+-Strona Restauracja - A mini web application for ordering food, written in ASP.NET CORE technology (C #, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)

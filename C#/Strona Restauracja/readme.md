@@ -15,6 +15,7 @@ Baza Danych:
 Oparta na trzech tabelach (Restaurant, Dish, Adress) miedzy którymi istnieją następujące relacje:
 - Restaurant : Dish (Jeden : Wielu)
 - Restaurant : Adress (Jeden : Jeden)
+
 Baza danych dodana poprzez ORM Entity Framework (Migracje) do lokalnej bazy danych, po wcześniejszej walidacji opartej na stworzonych modelach. 
 
 Wzorzec Projektowy: Dependency Injection
@@ -71,6 +72,7 @@ Database:
 Based on three tables (Restaurant, Dish, Adress) between which there are the following relationships:
 - Restaurant: Dish (One: Many)
 - Restaurant: Adress (One: One)
+
 Database added via ORM Entity Framework (Migrations) to the local database, after prior validation based on the created models.
 
 Design Pattern: Dependency Injection

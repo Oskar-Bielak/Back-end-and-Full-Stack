@@ -1,0 +1,16 @@
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.exe
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.deps.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.runtimeconfig.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.runtimeconfig.dev.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\ref\Budowanie Prostokątu.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\bin\Debug\net5.0\Budowanie Prostokątu.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.csproj.AssemblyReference.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.AssemblyInfo.cs
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\ref\Budowanie Prostokątu.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\WP, M, I\Budowanie Prostokątu\Budowanie Prostokątu\obj\Debug\net5.0\Budowanie Prostokątu.genruntimeconfig.cache

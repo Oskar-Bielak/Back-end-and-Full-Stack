@@ -1,0 +1,9 @@
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\bin\Debug\Szyfrowanie Plików Algorytmem ECC.exe.config
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\bin\Debug\Szyfrowanie Plików Algorytmem ECC.exe
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\bin\Debug\Szyfrowanie Plików Algorytmem ECC.pdb
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie Plików Algorytmem ECC.csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie_Plików_Algorytmem_ECC.Form1.resources
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie_Plików_Algorytmem_ECC.Properties.Resources.resources
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie Plików Algorytmem ECC.csproj.GenerateResource.cache
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie Plików Algorytmem ECC.exe
+C:\Users\oskar\Desktop\Nauka C#\Szyfrowanie Plików Algorytmem ECC\Szyfrowanie Plików Algorytmem ECC\obj\Debug\Szyfrowanie Plików Algorytmem ECC.pdb

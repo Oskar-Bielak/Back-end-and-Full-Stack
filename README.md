@@ -1,6 +1,6 @@
 PL:
 
-Ten katalog poswiece Full-stack. (Oznacza to stworzenie od podstawy calego szkielutu aplikacji,
+Ten katalog poswiece Full-stack i Backend. (Oznacza to stworzenie od podstawy calego szkielutu aplikacji,
 lub stworzeniu kodu strony i dodania jej na server w przypadku stron które wisza w internecie).
 
 Katalog dzielimy na dwa jezyki programowania:
@@ -18,7 +18,7 @@ http://inter-stal.eu/
 
 EN:
 
-This directory will be full-stack. (This means creating the entire application framework from the ground up,
+This directory will be full-stack and Backend. (This means creating the entire application framework from the ground up,
 or creating a page code and adding it to the server in the case of pages that hang on the Internet).
 
 The catalog is divided into two programming languages:

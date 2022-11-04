@@ -1,0 +1,11 @@
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\obj\Debug\netcoreapp3.1\Kalkulator (na metodach).csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\obj\Debug\netcoreapp3.1\Kalkulator (na metodach).AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\obj\Debug\netcoreapp3.1\Kalkulator (na metodach).AssemblyInfo.cs
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).exe
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).deps.json
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).runtimeconfig.json
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).runtimeconfig.dev.json
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).dll
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\bin\Debug\netcoreapp3.1\Kalkulator (na metodach).pdb
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\obj\Debug\netcoreapp3.1\Kalkulator (na metodach).dll
+C:\Users\oskar\Desktop\Nauka C#\Kalkulator (na metodach)\Kalkulator (na metodach)\obj\Debug\netcoreapp3.1\Kalkulator (na metodach).pdb

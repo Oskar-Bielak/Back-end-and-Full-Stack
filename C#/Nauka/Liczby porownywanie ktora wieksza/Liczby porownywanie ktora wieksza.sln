@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczby porownywanie ktora wieksza", "Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza.csproj", "{F882FF76-D19F-4351-8CD8-AC8193086A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F882FF76-D19F-4351-8CD8-AC8193086A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F882FF76-D19F-4351-8CD8-AC8193086A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F882FF76-D19F-4351-8CD8-AC8193086A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F882FF76-D19F-4351-8CD8-AC8193086A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A486C7-43EF-4CF8-80A1-0886B0E81FF6}
+	EndGlobalSection
+EndGlobal

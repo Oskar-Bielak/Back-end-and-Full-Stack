@@ -1,0 +1,6 @@
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\bin\Debug\Aplikacja Typu Hello World.exe.config
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\bin\Debug\Aplikacja Typu Hello World.exe
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\bin\Debug\Aplikacja Typu Hello World.pdb
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\obj\Debug\Aplikacja Typu Hello World.csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\obj\Debug\Aplikacja Typu Hello World.exe
+C:\Users\oskar\Desktop\Nauka C#\Aplikacja Typu Hello World\Aplikacja Typu Hello World\obj\Debug\Aplikacja Typu Hello World.pdb

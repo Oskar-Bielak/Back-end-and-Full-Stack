@@ -1,0 +1,11 @@
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\obj\Debug\netcoreapp3.1\Gra (na metodach).csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\obj\Debug\netcoreapp3.1\Gra (na metodach).AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\obj\Debug\netcoreapp3.1\Gra (na metodach).AssemblyInfo.cs
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).exe
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).deps.json
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).runtimeconfig.json
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).runtimeconfig.dev.json
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).dll
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\bin\Debug\netcoreapp3.1\Gra (na metodach).pdb
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\obj\Debug\netcoreapp3.1\Gra (na metodach).dll
+C:\Users\oskar\Desktop\Nauka C#\Gra (na metodach)\Gra (na metodach)\obj\Debug\netcoreapp3.1\Gra (na metodach).pdb

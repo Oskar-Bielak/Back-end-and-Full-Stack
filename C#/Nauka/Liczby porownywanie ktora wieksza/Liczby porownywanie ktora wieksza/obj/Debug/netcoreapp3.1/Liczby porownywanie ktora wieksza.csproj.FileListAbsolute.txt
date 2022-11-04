@@ -1,0 +1,11 @@
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.exe
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.deps.json
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.runtimeconfig.json
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.runtimeconfig.dev.json
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.dll
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\bin\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.pdb
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\obj\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.csprojAssemblyReference.cache
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\obj\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.AssemblyInfoInputs.cache
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\obj\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.AssemblyInfo.cs
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\obj\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.dll
+C:\Users\oskar\source\repos\Liczby porownywanie ktora wieksza\Liczby porownywanie ktora wieksza\obj\Debug\netcoreapp3.1\Liczby porownywanie ktora wieksza.pdb

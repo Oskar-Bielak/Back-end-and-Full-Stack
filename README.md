@@ -5,9 +5,8 @@ lub stworzeniu kodu strony i dodania jej na server w przypadku stron które wisz
 
 Katalog dzielimy na dwa jezyki programowania:
 
--PHP
-
--C#
+- C#
+- PHP
 
 
 W strony ktore sa dostepne, w interniecie dla których swiadcze usługi Full-stack:
@@ -24,9 +23,8 @@ or creating a page code and adding it to the server in the case of pages that ha
 
 The catalog is divided into two programming languages:
 
--PHP 
-
--C#
+- C#
+- PHP 
 
 On the websites that are available on the internet for which I provide Full-stack services:
 

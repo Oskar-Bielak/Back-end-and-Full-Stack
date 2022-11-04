@@ -3,18 +3,19 @@ PL:
 Mini aplikacja webowa do zamawiania jedzenia, napisana w technologii ASP.NET CORE (C#, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)
 
 Użyte Paczki:
--EntityFrameworkCore
--EntityFrameworkCore.SqlServer
--EntityFrameworkCore.Tools
--Swashbuckle
--NLog
--AutoMapper
+- EntityFrameworkCore
+- EntityFrameworkCore.SqlServer
+- EntityFrameworkCore.Tools
+- Swashbuckle
+- NLog
+- AutoMapper
 
 Technologia Bazodanowa: SQL
 Baza Danych:
 Oparta na trzech tabelach (Restaurant, Dish, Adress) miedzy którymi istnieją następujące relacje:
-Restaurant : Dish (Jeden : Wielu)
-Restaurant : Adress (Jeden : Jeden)
+- Restaurant : Dish (Jeden : Wielu)
+- Restaurant : Adress (Jeden : Jeden)
+
 Baza danych dodana poprzez ORM Entity Framework (Migracje) do lokalnej bazy danych, po wcześniejszej walidacji opartej na stworzonych modelach. 
 
 Wzorzec Projektowy: Dependency Injection
@@ -40,11 +41,11 @@ Sortowanie po nazwie
 /get/restaurant?sortBy=Name
 
 Stworzenie następujących zapytań do akcji kontrolera odpowiedzialnych wyciąganie danych z bazy lub dodawanie jej: 
--CreateRestaurant (HttpPost)
--GetAll (/)
--GetById (/get/id)
--Update (put/id)
--Delete (/delete/id)
+- CreateRestaurant (HttpPost)
+- GetAll (/)
+- GetById (/get/id)
+- Update (put/id)
+- Delete (/delete/id)
 
 
 Obsługa wyjątków:
@@ -59,18 +60,19 @@ EN:
 A mini web application for ordering food written in ASP.NET CORE technology (C #, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)
 
 Used parcels:
--EntityFrameworkCore
--EntityFrameworkCore.SqlServer
--EntityFrameworkCore.Tools
--Swashbuckle
--NLog
--AutoMapper
+- EntityFrameworkCore
+- EntityFrameworkCore.SqlServer
+- EntityFrameworkCore.Tools
+- Swashbuckle
+- NLog
+- AutoMapper
 
 Database Technology: SQL
 Database:
 Based on three tables (Restaurant, Dish, Adress) between which there are the following relationships:
-Restaurant: Dish (One: many)
-Restaurant: Adress (One: One)
+- Restaurant: Dish (One: Many)
+- Restaurant: Adress (One: One)
+
 Database added via ORM Entity Framework (Migrations) to the local database, after prior validation based on the created models.
 
 Design Pattern: Dependency Injection
@@ -96,11 +98,11 @@ Sort by name
 / get / restaurant? sortBy = Name
 
 Creating the following queries to the controller actions responsible for extracting data from the database or adding it:
--CreateRestaurant (HttpPost)
--GetAll (/)
--GetById (/ get / id)
--Update (put / id)
--Delete (/ delete / id)
+- CreateRestaurant (HttpPost)
+- GetAll (/)
+- GetById (/ get / id)
+- Update (put / id)
+- Delete (/ delete / id)
 
 Exception Handling:
 In this case, an NLog has been configured. Added handling of any errors related to attempts to remove server resources that do not exist, API errors, but also any page errors.

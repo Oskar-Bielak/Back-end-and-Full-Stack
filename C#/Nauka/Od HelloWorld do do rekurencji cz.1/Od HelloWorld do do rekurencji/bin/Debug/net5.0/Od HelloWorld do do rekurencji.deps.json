@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Od HelloWorld do do rekurencji/1.0.0": {
+        "runtime": {
+          "Od HelloWorld do do rekurencji.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Od HelloWorld do do rekurencji/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

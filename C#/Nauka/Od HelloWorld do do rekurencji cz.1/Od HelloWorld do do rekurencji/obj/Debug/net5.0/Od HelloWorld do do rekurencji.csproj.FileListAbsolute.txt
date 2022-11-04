@@ -1,0 +1,16 @@
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.exe
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.deps.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.runtimeconfig.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.runtimeconfig.dev.json
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\ref\Od HelloWorld do do rekurencji.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\bin\Debug\net5.0\Od HelloWorld do do rekurencji.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.csproj.AssemblyReference.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.AssemblyInfo.cs
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\ref\Od HelloWorld do do rekurencji.dll
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.pdb
+C:\Users\oskar\Desktop\git full-stack\Full-Stack\C#\Nauka\Od HelloWorld do do rekurencji\Od HelloWorld do do rekurencji\obj\Debug\net5.0\Od HelloWorld do do rekurencji.genruntimeconfig.cache
